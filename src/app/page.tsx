@@ -8,7 +8,7 @@ import HeroSection from "@/components/home/HeroSection";
 import MenuSection from "@/components/home/MenuSection";
 import GallerySection from "@/components/home/GallerySection";
 import AboutSection from "@/components/home/AboutSection";
-import TestimonialsSection from "@/components/home/TestimonialsSection";
+// import TestimonialsSection from "@/components/home/TestimonialsSection";
 import LocationSection from "@/components/home/LocationSection";
 import ContactSection from "@/components/home/ContactSection";
 import OrderModal from "@/components/home/OrderModal";
@@ -172,7 +172,7 @@ export default function Home() {
         <MenuSection />
         <GallerySection />
         <AboutSection />
-        <TestimonialsSection />
+        {/* <TestimonialsSection /> */}
         <LocationSection />
         <ContactSection />
       </main>
