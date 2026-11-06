@@ -210,7 +210,7 @@ export default function Home() {
           <div>
             <h4 className="text-lg font-semibold text-red-400 mb-4">Contact</h4>
             <p className="text-gray-400">Brisbane, Australia</p>
-            <p className="text-gray-400">+61 472 513 267</p>
+            <p className="text-gray-400">+61 0467 904 797</p>
           </div>
         </div>
       </footer>
